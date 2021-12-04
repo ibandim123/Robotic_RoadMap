@@ -7,12 +7,12 @@
 
 
 
-## 💻 Projeto
+## 💻 Project
  This project see to help students and developers for studies path in robotics
 
 
 
-## Contribuição e Manutenção
+## 🤝 Contribute
 
   Stay free for contribute, open a issue and i will give you a reply
 
