@@ -1,5 +1,5 @@
 <h1 align="center">
-   🤖 Mapa de Estudos de Robótica Fundamental ao Avançado 📘 | Se você tiver alguma ideia, abra uma issue! 👋
+   🤖 RoadMap for robotics students  📘 | If you have any idea, please, contribute!! 👋
 </h1>
 <h1 align="center">
  <img alt="image" height="500" width="100%" title="" src="https://portal.fgv.br/sites/portal.fgv.br/files/styles/noticia_geral/public/noticias/07/21/robo.jpg?itok=GiAg2WZh" />
@@ -8,13 +8,12 @@
 
 
 ## 💻 Projeto
- Uma forma de ajudar estudantes de robótica! organizando assuntos pertinentes na área para quem está começando 
+ This project see to help students and developers for studies path in robotics
 
 
 
 ## Contribuição e Manutenção
 
-  Fique à vontade para contribuir nesse projeto! Abra um issue e responderei
-
+  Stay free for contribute, open a issue and i will give you a reply
 
 
