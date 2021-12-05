@@ -4,12 +4,14 @@
 <h1 align="center">
  <img alt="image" height="500" width="100%" title="" src="https://portal.fgv.br/sites/portal.fgv.br/files/styles/noticia_geral/public/noticias/07/21/robo.jpg?itok=GiAg2WZh" />
 </h1> 
+<hr>
 
 
 
 ## 💻 Project
  This project see to help students and developers for studies path in robotics
 
+ <img alt="image" height="500" width="100%" title="" src="diagram.png" />
 
 
 ## 🤝 Contribute
