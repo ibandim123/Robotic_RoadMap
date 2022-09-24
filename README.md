@@ -10,9 +10,8 @@
 
 ## 💻 Project
  This project see to help students and developers for studies path in robotics
-
- <img alt="image" height="500" width="100%" title="" src="diagram.png" />
-
+ 
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/T79UHNbtkuo7Pfb7L5Fykq"></iframe>
 
 ## 🤝 Contribute
 
