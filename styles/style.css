@@ -1,0 +1,22 @@
+body {
+  background: url("https://img.freepik.com/vetores-gratis/fundo-branco-da-area-de-trabalho-vetor-de-design-moderno-minimo_53876-140226.jpg?w=2000");
+  font-family: 'Rajdhani', sans-serif;
+}
+
+header, section, footer {
+  margin-top: 30px;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.welcome_title {
+  display: flex;
+  justify-content: center;
+}
+
+.iframe_content {
+  display: flex;
+  justify-content: center;
+}
